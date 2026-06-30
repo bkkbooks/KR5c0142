@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR5c0142/krp/v1/juan/0
+seq: 0
+front:
+  text: 全道且也尊賢使能旦字誤禮所以齊儀今夲
+  hash: sha256:674dd23c868414f2e3284ff6df5d2fc793df7d7562029153d7bfa2d7bb74ae53
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0142_SBCK_000-1a}
+body:
+  text: 儀作物用道似非而是似下脫非字政道藉為人君若字誤人事盈作盈誤窮者日窮曰字誤科禁不行今夲作科禁大行寬猛失所冝或字誤天下王危代今夲作王天下者若絮字作守天聚人今本天作圀事誠於士今本誠作試簡豫簡作賦斂無節斂上脫賦字駭弩之上士字誤近古以來是字誤貞於忠言貞今夲作等君道養成之者人也脫人字賢道信而不見信為信脫下信字不愼無愼字誤訓道布丕今夲作不希兹日安否曰字誤好躁妄之言誤作妄而之言孰能究詳今本作安能洞詳農道人忘夲而事末人末夲末字誤好智下脫好智二字右得金城黃諫刻夲校對
+  hash: sha256:03e136250d7cca94cd53220f5bd52de1fe998013c2104c92dbc656ce9627cd2b
+metadata:
+  title: 新雕洞靈真經
+  edition:
+    short: krp
+  base_edition: SBCK
+  date: '2015-09-12 01:20:33.681051'
+  source:
+    repository: kanripo
+    path: KR5c0142/KR5c0142_000.txt
+hash: sha256:bb8639e407bd86c17aeb51d51a2e48e87cd0bd47cd00dd71eaee074f029124b1
